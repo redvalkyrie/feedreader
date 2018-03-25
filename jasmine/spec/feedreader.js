@@ -85,8 +85,8 @@ $(function() {
         });
 
         it('checks for content changes', (done) =>{
-            expect(feedBefore).toBeDefined;
-            expect(feedAfter).toBeDefined;
+            expect(feedBefore).toBeDefined();
+            expect(feedAfter).toBeDefined();
             expect(feedBefore).not.toEqual(feedAfter);
             done();
         });
