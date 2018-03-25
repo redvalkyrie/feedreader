@@ -11,7 +11,7 @@ javascript files.
 
 ## Installation
 All files must be cloned or downloaded from
-https://github.com/redvalkyrie/arcade-game
+https://github.com/redvalkyrie/feedreader
 Check for the following:
 1. css folder
 	- icomoon.css
@@ -24,7 +24,7 @@ Check for the following:
 	- icomoon.woff
 3. jasmine folder
 	- lib folder
-		- jasmin-2.1.2 folder
+		- jasmine-2.1.2 folder
 			- boot.js
 			- console.js
 			- jasmine_favicon.png
