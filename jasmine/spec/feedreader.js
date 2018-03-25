@@ -80,7 +80,9 @@ $(function() {
         loadFeed(0, () => { });
         feedBefore = $('.feed').html();
         beforeEach((done) => {
-            loadFeed(1, () => { done() });
+            loadFeed(1, () => {
+                done();
+            });
             feedAfter = $('.feed').html();
         });
 
