@@ -1,5 +1,5 @@
 # Feedreader
-Amber Fuller 03-25-2018
+03-25-2018
 ## Table of Contents
 * [Synopsis](#Synopsis)
 * [Installation](#Installation)
